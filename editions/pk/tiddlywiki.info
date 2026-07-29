@@ -1,0 +1,29 @@
+{
+  "description": "PK's customisations",
+  "plugins": [
+    "tiddlywiki/filesystem",
+    "tiddlywiki/internals",
+    "tiddlywiki/tiddlyweb",
+    "tiddlywiki/tw2parser",
+    "tiddlywiki/markdown",
+    "tiddlywiki/codemirror",
+    "tiddlywiki/codemirror-closebrackets",
+    "tiddlywiki/codemirror-fullscreen-editing",
+    "tiddlywiki/codemirror-keymap-vim",
+    "tiddlywiki/codemirror-mode-x-tiddlywiki",
+    "tiddlywiki/codemirror-search-replace",
+    "tiddlywiki/highlight"
+  ],
+  "themes": [
+    "tiddlywiki/centralised",
+    "tiddlywiki/tight",
+    "tiddlywiki/heavier",
+    "tiddlywiki/tight-heavier",
+    "tiddlywiki/readonly",
+    "tiddlywiki/seamless",
+    "tiddlywiki/snowwhite",
+    "tiddlywiki/starlight",
+    "tiddlywiki/vanilla"
+  ],
+  "build": {}
+}
